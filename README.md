@@ -122,6 +122,7 @@ Some people have had success using RS ASIO with [wineasio](https://www.wineasio.
 - [M-Audio Fast Track 2](https://github.com/mdias/rs_asio/issues/175)
 - [M-Audio Fast Track Pro USB](https://github.com/mdias/rs_asio/issues/225) (reporter had clock issues, check link)
 - [M-Audio Fast Track Ultra 8R](https://github.com/mdias/rs_asio/issues/135)
+- [M-Audio M-Track](https://github.com/mdias/rs_asio/issues/637), using ASIO4ALL
 - M-Audio M-Track Plus II
 - [M-Audio M-Track Solo](https://github.com/mdias/rs_asio/issues/207) NOTE: [there is a report](https://github.com/mdias/rs_asio/issues/562) that the 32-bit drivers are crashing
 - [M-Audio M-Track Duo](https://github.com/mdias/rs_asio/issues/207)

@@ -1,5 +1,7 @@
 # RS ASIO
 
+这是原项目的README，个人经验（此fork），见thr10ii-win11-32bit-dry-signal-fix.zh-CN
+
 此项目旨在为`Rocksmith 2014 Edition - Remastered`（摇滚史密斯2014 - 重制版）提供ASIO驱动支持并避开WASAPI驱动带来的相关问题。
 
 这会在游戏运行时修正代码以干预搜索WASAPI驱动设备的过程，并注入使用ASIO音频API的虚假WASAPI设备。

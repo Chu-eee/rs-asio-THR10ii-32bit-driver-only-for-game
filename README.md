@@ -8,7 +8,7 @@
 ---
 
 ## Other Language
-[简体中文]README_CN.md
+[简体中文](README_CN.md)
 
 ## Step 0: What you need (all free)
 

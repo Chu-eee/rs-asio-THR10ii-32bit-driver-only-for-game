@@ -1,5 +1,7 @@
 # RS ASIO
 
+This is the README of the original project, including personal experience (for this fork). See thr10ii-win11-32bit-dry-signal-fix.md.
+
 This project aims to add ASIO support to `Rocksmith 2014 Edition - Remastered` in order to avoid issues with some WASAPI drivers.
 It patches game code at runtime to allow intervening in the process of WASAPI device enumeration so that we can inject our own fake WASAPI devices which internally use ASIO audio API.
 

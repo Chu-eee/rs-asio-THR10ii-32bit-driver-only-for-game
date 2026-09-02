@@ -8,7 +8,7 @@
 
 
 ## 其他语言
-[English](README.md)
+[English](Original_README.md)
 
 ## 使用方式
 

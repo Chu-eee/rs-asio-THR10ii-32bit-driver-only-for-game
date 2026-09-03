@@ -6,6 +6,9 @@
 > If you meet an unfamiliar word, jump to the [Glossary](#glossary) at the bottom and come back.
 
 ---
+## Things you'll need
+[rs-THR10ii-32bit-asio-fork-package](rs-THR10ii-32bit-asio-fork-package)
+
 
 ## Other Language
 [简体中文](README_CN.md)

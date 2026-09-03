@@ -6,6 +6,8 @@
 > 如果中途看不懂某个词，先翻到最后的【小词典】再看回来。
 
 ---
+## 大部分用到的东西
+[rs-THR10ii-32bit-asio-fork-package](rs-THR10ii-32bit-asio-fork-package)
 
 ## 其他语言
 [英语](README.md)
